@@ -82,3 +82,4 @@ class TestAccountManagement:
         assert "opening_balance" in data
         assert "closing_balance" in data
         assert "transactions" in data
+# txn tests
