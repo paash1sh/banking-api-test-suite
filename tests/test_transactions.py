@@ -84,3 +84,4 @@ class TestAccountManagement:
         assert "transactions" in data
 # txn tests
 # funds test
+# transfer
