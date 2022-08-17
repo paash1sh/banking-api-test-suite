@@ -86,3 +86,4 @@ class TestAccountManagement:
 # funds test
 # transfer
 # account tests
+# perf
