@@ -40,3 +40,4 @@ stages:
               testResultsFiles: "test-results.xml"
             condition: always()
             displayName: "Publish test results"
+# pipeline
