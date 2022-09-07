@@ -44,3 +44,4 @@ pytest tests/test_transactions.py::TestTransactionProcessing -v
 ## CI/CD
 
 Pipeline config in `.github/workflows/azure-pipelines.yml`. Runs on every push to `main` and `develop`. Results published to Azure DevOps test dashboard.
+# readme
